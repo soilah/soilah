@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @soilah
+- 👋 Hi, I'm soilah
 - 👀 I’m interested in IoT, Low-Level programming and signal processing. And music :)
 
 <!---
