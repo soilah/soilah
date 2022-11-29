@@ -1,5 +1,5 @@
 - 👋 Hi, I'm soilah
-- 👀 I’m interested in IoT, Low-Level programming and signal processing. And music :)
+- 👀 I’m interested in Linux automations, IoT, Low-Level programming and signal processing. And music :)
 
 <!---
 soilah/soilah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
