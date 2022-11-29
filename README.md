@@ -1,5 +1,5 @@
 - 👋 Hi, I'm soilah
-- 👀 I’m interested in Linux automations, IoT, Low-Level programming and signal processing. And music :)
+- 👀 This is my git nest. You will probably find linux automation scripts.
 
 <!---
 soilah/soilah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
